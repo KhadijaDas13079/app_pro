@@ -1,4 +1,8 @@
 # app_pro
 
 ## vue is a good job
-### i like use it
+
+## vue install
+```shell
+npm init vue@latest
+```
